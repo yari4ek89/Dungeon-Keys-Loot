@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "KIK",
+    "KLK",
+    "KIK"
+  ],
+  "key": {
+    "K": { "item": "minecraft:lapis_block" },
+    "I": { "item": "minecraft:gold_block" },
+    "L": { "item": "minecraft:iron_nugget" }
+  },
+  "result": {
+    "id": "dungeon:lock_cache",
+    "count": 1
+  }
+}
