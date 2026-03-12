@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "side": "dungeon:block/locked_cache_side",
-    "bottom": "dungeon:block/locked_cache_bottom",
-    "top": "dungeon:block/locked_cache_top"
-  }
-}

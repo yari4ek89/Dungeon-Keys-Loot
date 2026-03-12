@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "north": "dungeon:block/copper/locked_cache_front",
+    "south": "dungeon:block/copper/locked_cache_side",
+    "east":  "dungeon:block/copper/locked_cache_side",
+    "west":  "dungeon:block/copper/locked_cache_side",
+    "up":    "dungeon:block/copper/locked_cache_top",
+    "down":  "dungeon:block/copper/locked_cache_bottom"
+  }
+}

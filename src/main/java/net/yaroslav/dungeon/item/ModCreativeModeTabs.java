@@ -22,7 +22,9 @@ public class ModCreativeModeTabs {
                         output.accept(ModItems.GOLD_KEY);
                         output.accept(ModItems.IRON_KEY);
                         output.accept(ModItems.COPPER_KEY);
-                        output.accept(ModBlocks.LOCK_CACHE_BLOCK);
+                        output.accept(ModBlocks.COPPER_LOCK_CACHE_BLOCK);
+                        output.accept(ModBlocks.IRON_LOCK_CACHE_BLOCK);
+                        output.accept(ModBlocks.GOLD_LOCK_CACHE_BLOCK);
                             }
                     )
                     .build());

@@ -8,7 +8,9 @@
   "item.dungeon.gold_key.tooltip": "A key to open lock cache block",
   "item.dungeon.iron_key.tooltip": "A key to open lock cache block",
   "item.dungeon.copper_key.tooltip": "A key to open lock cache block",
-  "block.dungeon.lock_cache.tooltip": "A block with interesting loot. Open with any key",
+  "block.dungeon.lock_cache.tooltip": "A block with interesting loot. Open with a key",
 
-  "block.dungeon.lock_cache": "Lock Cache Block"
+  "block.dungeon.copper_lock_cache": "Copper Lock Cache Block",
+  "block.dungeon.iron_lock_cache": "Iron Lock Cache Block",
+  "block.dungeon.gold_lock_cache": "Gold Lock Cache Block"
 }
